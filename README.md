@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Meet
+
+**Embryo Meet** is Embryo-Zero's fork of [Jitsi Meet](https://github.com/jitsi/jitsi-meet), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # <p align="center">Jitsi Meet</p>
 
 Jitsi Meet is a set of Open Source projects which empower users to use and deploy
